@@ -125,9 +125,12 @@ sudo ln -s /etc/nginx/sites-available/phpadmin /etc/nginx/sites-enabled/phpadmin
   ![Instalación](images/image10-2.png){ width="90%" }
   <figcaption>Fig.10-2: Añadimos este contenido al fichero phpadmin dentro de nginx</figcaption>
 </figure>
- 
+
+```bash
 1. auth_basic "Accés restringit";
 2. auth_basic_user_file /etc/nginx/.htpasswd;
+```
+
 
 <figure markdown="span">
   ![Instalación](images/image10-2.png){ width="90%" }
