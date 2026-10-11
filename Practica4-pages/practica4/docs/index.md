@@ -154,11 +154,9 @@ Recargamos el servidor nginx para que aplique la configuración y protegemos los
 
 # 13. Si quiere ver más información de la practica, por favor, descargatelo de por aqui
 
-<a href="/Practica4-pages/practica4/docs/Pràctica 4 phpmyadmin - Josep Calvo.pdf" download class="md-button md-button--primary">
-  <span class="twemoji">
-    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24">
-      <path fill="currentColor" d="M5 20h14v-2H5v2zm7-18v10l4-4 1.4 1.4L12 17l-5.4-5.6L8 10l3 2V2h1z"/>
-    </svg>
-  </span>
+<a href="Pr%C3%A0ctica%204%20phpmyadmin-Josep%20Calvo.pdf"
+   download
+   class="md-button md-button--primary">
   Descargar práctica en PDF
-</a>
+  </a>
+
